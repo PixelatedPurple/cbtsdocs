@@ -1,0 +1,2 @@
+# cbtsdocs
+Documentation for CursedBots
